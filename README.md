@@ -1,56 +1,53 @@
-🎵 Hackathon: ML Model for Song Prediction
-Have you ever felt like your music taste is a reflection of your soul? In this project, we set out to decode that feeling — using machine learning.
+🎶 Hackathon Project: ML Model for Song Preference Prediction
+What kind of music do people love — and why?
+Music taste often feels deeply personal, like a mirror of the soul. This project explores how machine learning can capture that essence by predicting individual music preferences based on user behavior and song features.
 
-🧠 Project Overview
-This machine learning project was built as part of a hackathon challenge to predict what kind of music people like based on various input features. The goal was to understand listening behavior and recommend songs or genres that resonate personally with users.
+📍 Project Summary
+This project was developed during a hackathon with the goal of building a machine learning model that predicts a person’s music taste. By analyzing user data and audio features, we aimed to classify preferred genres and recommend songs that match individual listening styles.
 
-🚀 What We Built
-Data Preprocessing: Cleaned and normalized a dataset containing user preferences, song metadata (genre, mood, tempo, etc.), and historical behavior.
+🔍 Key Features
+Data Cleaning & Preprocessing
+Structured raw user data and song metadata including mood, genre, tempo, and artist popularity.
 
-Modeling: Tested various ML algorithms, including:
+Exploratory Data Analysis
+Uncovered patterns in user preferences, listening frequency, and genre clusters using visual tools like Seaborn and Matplotlib.
+
+Model Development
+Trained and evaluated multiple models:
 
 Logistic Regression
 
-Random Forest
+Random Forest Classifier
 
 XGBoost
 
-KNN for similarity-based recommendation
+K-Nearest Neighbors (KNN) for similarity-based recommendation
 
-Evaluation:
+Recommendation Engine
+The final pipeline suggests genres or songs a user is most likely to enjoy based on learned patterns.
 
-Achieved promising accuracy scores on classification models.
+🧠 Tech Stack
+Languages: Python
 
-Used F1-score and precision-recall for imbalanced preference data.
+Libraries: pandas, numpy, scikit-learn, xgboost, seaborn, matplotlib
 
-Song Recommendation:
+Tools: Jupyter Notebook
 
-Final model outputs the most likely preferred genre/song per user.
+📈 Results
+Achieved strong performance metrics (accuracy, F1-score) in multi-class classification tasks.
 
-Includes an option to generate a mini playlist.
+Demonstrated how audio and user features can be effectively mapped to preferences.
 
-🧰 Tech Stack
-Python
+🔄 Future Scope
+Spotify API Integration: Dynamically recommend tracks and create real-time playlists.
 
-Pandas & NumPy
+Lyrics & Sentiment Analysis: Use NLP to align user mood with lyrical themes.
 
-Scikit-learn
+Deep Learning Models: Explore RNNs or Transformer-based models for better context understanding.
 
-Matplotlib & Seaborn (for EDA)
+👥 Team & Collaboration
+This project was developed as a collaborative effort during a 48-hour hackathon, combining data science, music intelligence, and user behavior insights into one seamless experience.
 
-Jupyter Notebook
-
-📌 Future Improvements
-Integrate Spotify API for real-time song metadata and playlist generation.
-
-Apply NLP to analyze song lyrics and mood mapping.
-
-Enhance personalization using deep learning (e.g., RNNs or Transformers).
-
-🤝 Team & Credits
-Built during a 48-hour hackathon with a focus on collaboration, creativity, and pushing the limits of AI in music personalization.
-
-💬 Inspiration
-“Music taste always felt so personal — like if someone judged your playlist, they were really judging your soul.”
-
-We turned that sentiment into a data-driven experiment.
+💭 Final Thought
+“If someone judges your playlist, it often feels like they’re judging your soul.”
+We wanted to build a model that understands that — not judges it.
