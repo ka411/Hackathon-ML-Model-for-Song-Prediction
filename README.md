@@ -46,7 +46,7 @@ Lyrics & Sentiment Analysis: Use NLP to align user mood with lyrical themes.
 Deep Learning Models: Explore RNNs or Transformer-based models for better context understanding.
 
 👥 Team & Collaboration
-This project was developed as a collaborative effort during a 48-hour hackathon, combining data science, music intelligence, and user behavior insights into one seamless experience.
+This project was built as part of a fast-paced, 48-hour hackathon challenge. Our team brought together individuals with diverse expertise — from data analysis and machine learning to software development and creative design. We collaborated using Git and GitHub for version control, divided tasks efficiently, and held regular checkpoints to stay aligned. Despite the time constraints, we managed to deliver a functional and insightful music preference prediction model by combining our strengths and working with clear communication and shared goals.
 
 💭 Final Thought
 “If someone judges your playlist, it often feels like they’re judging your soul.”
