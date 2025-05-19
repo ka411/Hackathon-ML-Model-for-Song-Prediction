@@ -1,5 +1,5 @@
 🎶 Hackathon Project: ML Model for Song Preference Prediction
-What kind of music do people love — and why?
+What kind of music do people love and why?
 Music taste often feels deeply personal, like a mirror of the soul. This project explores how machine learning can capture that essence by predicting individual music preferences based on user behavior and song features.
 
 📍 Project Summary
@@ -7,7 +7,7 @@ This project was developed during a hackathon with the goal of building a machin
 
 🔍 Key Features
 Data Cleaning & Preprocessing
-Structured raw user data and song metadata including mood, genre, tempo, and artist popularity.
+Structured raw user data and song metadata, including mood, genre, tempo, and artist popularity.
 
 Exploratory Data Analysis
 Uncovered patterns in user preferences, listening frequency, and genre clusters using visual tools like Seaborn and Matplotlib.
@@ -24,7 +24,7 @@ XGBoost
 K-Nearest Neighbors (KNN) for similarity-based recommendation
 
 Recommendation Engine
-The final pipeline suggests genres or songs a user is most likely to enjoy based on learned patterns.
+The final pipeline suggests genres or songs a user will most likely enjoy based on learned patterns.
 
 🧠 Tech Stack
 Languages: Python
@@ -46,8 +46,8 @@ Lyrics & Sentiment Analysis: Use NLP to align user mood with lyrical themes.
 Deep Learning Models: Explore RNNs or Transformer-based models for better context understanding.
 
 👥 Team & Collaboration
-This project was built as part of a fast-paced, 48-hour hackathon challenge. Our team brought together individuals with diverse expertise — from data analysis and machine learning to software development and creative design. We collaborated using Git and GitHub for version control, divided tasks efficiently, and held regular checkpoints to stay aligned. Despite the time constraints, we managed to deliver a functional and insightful music preference prediction model by combining our strengths and working with clear communication and shared goals.
+This project was built as part of a fast-paced, 48-hour hackathon challenge. Our team brought together individuals with diverse expertise — from data analysis and machine learning to software development and creative design. We collaborated using Git and GitHub for version control, divided tasks efficiently, and held regular checkpoints to stay aligned. Despite the time constraints, we delivered a functional and insightful music preference prediction model by combining our strengths and working with clear communication and shared goals.
 
 💭 Final Thought
 “If someone judges your playlist, it often feels like they’re judging your soul.”
-We wanted to build a model that understands that — not judges it.
+We wanted to build a model that understands that, not judges it.
