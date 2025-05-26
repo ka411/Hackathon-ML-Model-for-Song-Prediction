@@ -3,7 +3,7 @@ What kind of music do people love and why?
 Music taste often feels deeply personal, like a mirror of the soul. This project explores how machine learning can capture that essence by predicting individual music preferences based on user behavior and song features.
 
 📍 Project Summary
-This project was developed during a hackathon with the goal of building a machine learning model that predicts a person’s music taste. By analyzing user data and audio features, we aimed to classify preferred genres and recommend songs that match individual listening styles.
+This project was developed during a hackathon to build a machine learning model that predicts a person’s music taste. By analyzing user data and audio features, we aimed to classify preferred genres and recommend songs that match individual listening styles.
 
 🔍 Key Features
 Data Cleaning & Preprocessing
@@ -43,11 +43,11 @@ Spotify API Integration: Dynamically recommend tracks and create real-time playl
 
 Lyrics & Sentiment Analysis: Use NLP to align user mood with lyrical themes.
 
-Deep Learning Models: Explore RNNs or Transformer-based models for better context understanding.
+Deep Learning Models: Consider using RNNs or Transformer-based models for enhanced context understanding.
 
 👥 Team & Collaboration
 This project was built as part of a fast-paced, 48-hour hackathon challenge. Our team brought together individuals with diverse expertise — from data analysis and machine learning to software development and creative design. We collaborated using Git and GitHub for version control, divided tasks efficiently, and held regular checkpoints to stay aligned. Despite the time constraints, we delivered a functional and insightful music preference prediction model by combining our strengths and working with clear communication and shared goals.
 
 💭 Final Thought
 “If someone judges your playlist, it often feels like they’re judging your soul.”
-We wanted to build a model that understands that, not judges it.
+We wanted to build a model that understands, rather than judges.
