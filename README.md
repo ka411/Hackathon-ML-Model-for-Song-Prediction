@@ -49,5 +49,6 @@ Deep Learning Models: Consider using RNNs or Transformer-based models for enhanc
 This project was built as part of a fast-paced, 48-hour hackathon challenge. Our team brought together individuals with diverse expertise — from data analysis and machine learning to software development and creative design. We collaborated using Git and GitHub for version control, divided tasks efficiently, and held regular checkpoints to stay aligned. Despite the time constraints, we delivered a functional and insightful music preference prediction model by combining our strengths and working with clear communication and shared goals.
 
 💭 Final Thought
-“If someone judges your playlist, it often feels like they’re judging your soul.”
+“If someone judges your playlist, it often feels like they’re judging your soul."
 We wanted to build a model that understands, rather than judges.
+By Kamran Qureshi
