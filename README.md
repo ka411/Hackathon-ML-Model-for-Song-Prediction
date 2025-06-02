@@ -26,19 +26,19 @@ K-Nearest Neighbors (KNN) for similarity-based recommendation
 Recommendation Engine
 The final pipeline suggests genres or songs a user will most likely enjoy based on learned patterns.
 
-🧠 Tech Stack
+🧠Tech Stack
 Languages: Python
 
 Libraries: pandas, numpy, scikit-learn, xgboost, seaborn, matplotlib
 
 Tools: Jupyter Notebook
 
-📈 Results
+📈Results
 Achieved strong performance metrics (accuracy, F1-score) in multi-class classification tasks.
 
 Demonstrated how audio and user features can be effectively mapped to preferences.
 
-🔄 Future Scope
+🔄Future Scope
 Spotify API Integration: Dynamically recommend tracks and create real-time playlists.
 
 Lyrics & Sentiment Analysis: Use NLP to align user mood with lyrical themes.
