@@ -16,8 +16,11 @@ Model Development
 Trained and evaluated multiple models:
 
 Logistic Regression
+
 Random Forest Classifier
+
 XGBoost
+
 K-Nearest Neighbors (KNN) for similarity-based recommendation
 
 Recommendation Engine
