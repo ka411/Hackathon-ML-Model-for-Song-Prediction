@@ -51,3 +51,4 @@ This project was built as part of a fast-paced, 48-hour hackathon challenge. Our
 💭Final Thought
 “If someone judges your playlist, it often feels like they’re judging your soul."
 We wanted to build a model that understands, rather than judges.
+Kamran Qureshi
