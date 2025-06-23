@@ -23,6 +23,37 @@ Random Forest Classifier
 
 XGBoost
 
+🧠 Tech Stack
+
+Languages: Python
+
+Libraries: pandas, numpy, scikit-learn, xgboost, seaborn, matplotlib
+
+Tools: Jupyter Notebook
+
+📈 Results
+
+Achieved strong performance metrics (accuracy, F1-score) in multi-class classification tasks.
+
+Demonstrated how audio and user features can be effectively mapped to individual music preferences.
+
+🔄 Future Scope
+
+Spotify API Integration: Dynamically recommend tracks and create real-time playlists.
+
+Lyrics & Sentiment Analysis: Use NLP to align user moods with lyrical themes.
+
+Deep Learning Models: Explore RNNs or Transformer-based models for enhanced context understanding.
+
+👥 Team & Collaboration
+This project was built during a fast-paced 48-hour hackathon challenge. Our team brought together individuals with diverse expertise spanning data analysis, machine learning, software development, and creative design. We collaborated using Git and GitHub for version control, divided tasks efficiently, and held regular checkpoints to stay aligned. Despite the time constraints, we delivered a functional and insightful music preference prediction model by combining our strengths and maintaining clear communication and shared goals.
+
+💭 Final Thought
+“If someone judges your playlist, it often feels like they’re judging your soul.”
+We wanted to build a model that understands—rather than judges.
+
+
+
 K-Nearest Neighbors (KNN) for similarity-based recommendations
 
 Recommendation Engine
