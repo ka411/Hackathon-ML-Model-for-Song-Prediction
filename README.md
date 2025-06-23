@@ -22,6 +22,10 @@ Logistic Regression
 Random Forest Classifier
 
 XGBoost
+K-Nearest Neighbors (KNN) for similarity-based recommendations
+
+Recommendation Engine
+The final pipeline suggests genres or songs a user is most likely to enjoy based on learned patterns.
 
 🧠 Tech Stack
 
@@ -50,11 +54,8 @@ This project was built during a fast-paced 48-hour hackathon challenge. Our team
 
 💭 Final Thought
 “If someone judges your playlist, it often feels like they’re judging your soul.”
-We wanted to build a model that understands—rather than judges.
+We wanted to build a model that understands, rather than judges.
 
 
 
-K-Nearest Neighbors (KNN) for similarity-based recommendations
 
-Recommendation Engine
-The final pipeline suggests genres or songs a user is most likely to enjoy based on learned patterns.
