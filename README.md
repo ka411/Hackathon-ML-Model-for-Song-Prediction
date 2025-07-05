@@ -4,7 +4,7 @@ What kind of music do people love—and why?
 Music taste often feels deeply personal, like a mirror of the soul. This project explores how machine learning can capture that essence by predicting individual music preferences based on user behavior and song features.
 
 📍 Project Summary
-This project was developed during a hackathon with the goal of building a machine learning model that predicts a person’s music taste. By analyzing user data and audio features, we aimed to classify preferred genres and recommend songs that match individual listening styles.
+This project was developed during a hackathon to build a machine-learning model that predicts a person’s music taste. By analyzing user data and audio features, we aimed to classify preferred genres and recommend songs that match individual listening styles.
 
 🔍 Key Features
 
