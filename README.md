@@ -1,6 +1,6 @@
 🎶 Hackathon Project: ML Model for Song Preference Prediction
 
-What kind of music do people love—and why?
+What kind of music do people love and why?
 Music taste often feels deeply personal, like a mirror of the soul. This project explores how machine learning can capture that essence by predicting individual music preferences based on user behavior and song features.
 
 📍 Project Summary
@@ -31,7 +31,7 @@ The final pipeline suggests genres or songs a user is most likely to enjoy based
 
 Languages: Python
 
-Libraries: pandas, numpy, scikit-learn, xgboost, seaborn, matplotlib
+Libraries: pandas, numpy, scikit-learn, xgboost, seaborn, matplotlib.
 
 Tools: Jupyter Notebook
 
