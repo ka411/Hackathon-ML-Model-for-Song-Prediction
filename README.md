@@ -30,7 +30,7 @@ The final pipeline suggests genres or songs a user is most likely to enjoy based
 
 
 
-🧠 Tech Stack
+ 🧠 Tech Stack
 
 Languages: Python
 
