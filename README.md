@@ -43,6 +43,7 @@ Achieved strong performance metrics (accuracy, F1-score) in multi-class classifi
 
 Demonstrated how audio and user features can be effectively mapped to individual music preferences.
 
+
 🔄 Future Scope
 
 Spotify API Integration: Dynamically recommend tracks and create real-time playlists.
