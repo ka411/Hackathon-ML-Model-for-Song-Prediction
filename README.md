@@ -54,8 +54,3 @@ Deep Learning Models: Explore RNNs or Transformer-based models for enhanced cont
 
 👥 Team & Collaboration
 This project was developed as part of a 48-hour intense hackathon. Our team combined a wide range of skills—from data analysis and machine learning to software development and UI/UX design. We utilized Git and GitHub to manage version control, coordinate tasks effectively, and hold frequent check-ins to stay on track. Through strong teamwork, clear communication, and a shared vision, we successfully built a working music preference prediction model within the limited timeframe.
-
-
-
-
-
